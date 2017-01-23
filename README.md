@@ -58,10 +58,12 @@ Be careful not to give any details that could be intellectual property of the co
 I helped create the new Vasculitis Foundation website https://www.vasculitisfoundation.org/ and the global communities website http://www.globalcommunities.org/  I was in constant communication with international coworkers. My main “problem that I solved” every day was making sure that us as web developers knew what the client wanted; and getting the result done in a timely manner. 
 Here are some examples of what I did: 
 This is an old website that I helped change…
+
  ![image](https://cloud.githubusercontent.com/assets/5335436/22192605/995dc924-e0f2-11e6-9cc7-06ce70a55c77.png)
  
-..into this new updated website 
+..into this new updated website...
 
+![image](https://cloud.githubusercontent.com/assets/5335436/22192670/222a6b2c-e0f3-11e6-8610-b70e275248c1.png)
 
 This new website is up to date, more interactive, and easier to read. One problem that I had to solve was a calendar issue; it was not displaying future events on the calendar.
 
